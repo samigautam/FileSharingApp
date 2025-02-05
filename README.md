@@ -1,0 +1,1 @@
+This is a file-sharing application built using Django and Django REST Framework (DRF). Similar to Google Drive and OneDrive, this platform allows users to upload, manage, and share files seamlessly through a user-friendly web interface and a powerful REST API.
